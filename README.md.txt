@@ -1,4 +1,4 @@
-# Hello-world
+# StudentWebTutorial_Hello-world
 Hello World repository for Git tutorial
 This is an example repository for the Git tutorial for my students at CodePlotters
 
